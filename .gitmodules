@@ -1,0 +1,12 @@
+[submodule "monolithic_arch_springboot"]
+	path = monolithic_arch_springboot
+	url = https://github.com/fenixsoft/monolithic_arch_springboot.git
+[submodule "tcc-transaction"]
+	path = tcc-transaction
+	url = https://github.com/changmingxie/tcc-transaction.git
+[submodule "EasyTransaction"]
+	path = EasyTransaction
+	url = https://github.com/QNJR-GROUP/EasyTransaction.git
+[submodule "ByteTCC"]
+	path = ByteTCC
+	url = https://github.com/liuyangming/ByteTCC.git
